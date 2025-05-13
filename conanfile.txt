@@ -1,0 +1,6 @@
+[requires]
+nlohmann_json/3.10.5
+libcurl/8.9.1
+
+[generators]
+cmake
